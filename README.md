@@ -29,16 +29,16 @@ Este repositório contém a documentação da minha experiência prática com as
 
 ### 🔊 Azure Speech Studio
 
-#### ✔ Speech-to-Text
+#### Speech-to-Text
 - Teste com arquivos de áudio em português do Brasil.
 - Reconhecimento de fala preciso, mesmo com ruído de fundo leve.
 - Foi possível configurar idioma, ponto de pontuação e nível de precisão.
 
-#### ✔ Text-to-Speech
+#### Text-to-Speech
 - Geração de fala com diferentes vozes e sotaques.
 - Personalização de tom, velocidade e pausas usando marcações SSML.
 
-#### ✔ Speech Translation
+#### Speech Translation
 - Tradução simultânea da fala em português para inglês.
 - Resultados eficazes, embora com pequenas perdas de contexto em frases complexas.
 
@@ -46,20 +46,20 @@ Este repositório contém a documentação da minha experiência prática com as
 
 ### 🧾 Azure Language Studio
 
-#### ✔ Análise de Sentimento
+#### Análise de Sentimento
 - Análise de textos opinativos (comentários de redes sociais, avaliações).
 - Classificação precisa entre **positivo**, **neutro** e **negativo**.
 - Pontuação atribuída a cada frase, útil para relatórios.
 
-#### ✔ Extração de Entidades Nomeadas
+#### Extração de Entidades Nomeadas
 - Extração automática de nomes de pessoas, locais, organizações e datas.
 - Utilizado texto de notícias reais.
 
-#### ✔ Classificação de Texto (Custom Text Classification)
+#### Classificação de Texto (Custom Text Classification)
 - Teste com projeto customizado com dois rótulos: "Elogio" e "Crítica".
 - Treinamento de modelo com poucos exemplos foi possível, mas melhor desempenho com mais dados.
 
-#### ✔ Perguntas e Respostas
+#### Perguntas e Respostas
 - Análise de documentos PDF para perguntas feitas em linguagem natural.
 - Modelo retornou respostas contextualizadas baseadas no conteúdo.
 
@@ -75,12 +75,8 @@ Este repositório contém a documentação da minha experiência prática com as
 
 ---
 
-## Organização do Repositório
+## Conclusão
 
-A estrutura do repositório foi organizada para facilitar a navegação, estudo e reuso dos materiais:
+Este laboratório foi importante para consolidar meus conhecimentos sobre inteligência artificial aplicada à fala e linguagem natural. As ferramentas da Microsoft são acessíveis, poderosas e abrem portas para diversas aplicações no mundo real. Recomendo fortemente a prática a todos que desejam aprender IA de forma prática e objetiva.
 
-
-- **README.md**: Este arquivo que você está lendo — descreve o projeto, objetivos e resultados.
-- **insights.md**: Arquivo complementar com reflexões e aprendizados extraídos durante o uso das ferramentas.
-
-> Observação: Este projeto não inclui imagens, mas a estrutura está preparada para comportá-las futuramente, mantendo a organização.
+---
