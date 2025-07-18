@@ -75,7 +75,12 @@ Este repositório contém a documentação da minha experiência prática com as
 
 ---
 
-## 📁 Organização do Repositório
+## Organização do Repositório
 
 A estrutura do repositório foi organizada para facilitar a navegação, estudo e reuso dos materiais:
 
+
+- **README.md**: Este arquivo que você está lendo — descreve o projeto, objetivos e resultados.
+- **insights.md**: Arquivo complementar com reflexões e aprendizados extraídos durante o uso das ferramentas.
+
+> Observação: Este projeto não inclui imagens, mas a estrutura está preparada para comportá-las futuramente, mantendo a organização.
