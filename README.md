@@ -26,9 +26,6 @@ Este repositório documenta minha experiência prática com as ferramentas **Azu
 - [x] Classificação e entidades nomeadas
 - [x] Criação de projetos personalizados (opcional)
 
-## Capturas de Tela
-Imagens dos testes podem ser encontradas na pasta `/images`.
-
 ## Insights
 - A precisão da transcrição de fala é excelente, mesmo com sotaques.
 - A classificação de sentimentos pode ser refinada com exemplos melhores.
